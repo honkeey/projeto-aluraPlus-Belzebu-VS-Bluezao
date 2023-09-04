@@ -38,8 +38,14 @@ body {
   padding: 1em;
   color: var(--branco-principal);
 text-decoration: none;
+display: block;
 }
 
 strong {
   color: #4626b8;
+}
+
+.botao_secundario {
+  background-color: transparent;
+  border: 2px solid var(--botao);
 }
