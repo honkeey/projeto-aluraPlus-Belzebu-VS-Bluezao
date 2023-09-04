@@ -15,8 +15,12 @@ body {
   font-weight: 400;
 }
 
-.principal {
+.teste {
   background-image: url("https://yt3.googleusercontent.com/ytc/AOPolaQcE_mH8sTaqv-YL1E-sX7C30t2u9AKvtPIIXiNRw=s900-c-k-c0x00ffffff-no-rj");
+
+}
+
+.principal {
   background-repeat: no-repeat;
   background-size: contain;
 }
