@@ -16,17 +16,13 @@ body {
 }
 
 .teste {
-  background-image: url("background.png");
+  background-image: url("https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.vakinha.com.br%2Fuploads%2Fvakinha%2Fimage%2F183061%2Fimages__6_.jpg%3Fims%3D700x410&tbnid=-pX1qSx3NacX7M&vet=12ahUKEwi2sOq5u6KBAxWFT7gEHU5qC1MQMygBegQIARA3..i&imgrefurl=https%3A%2F%2Fwww.vakinha.com.br%2Fvaquinha%2Freforma-do-banheiro-do-bluezao&docid=30VVC5TPvMmjSM&w=700&h=410&q=bluezao&ved=2ahUKEwi2sOq5u6KBAxWFT7gEHU5qC1MQMygBegQIARA3");
   background-repeat: repeat;
   background-size: contain;
 
 }
 
 .principal {
-  background-image: url("https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.vakinha.com.br%2Fuploads%2Fvakinha%2Fimage%2F183061%2Fimages__6_.jpg%3Fims%3D700x410&tbnid=-pX1qSx3NacX7M&vet=12ahUKEwi2sOq5u6KBAxWFT7gEHU5qC1MQMygBegQIARA3..i&imgrefurl=https%3A%2F%2Fwww.vakinha.com.br%2Fvaquinha%2Freforma-do-banheiro-do-bluezao&docid=30VVC5TPvMmjSM&w=700&h=410&q=bluezao&ved=2ahUKEwi2sOq5u6KBAxWFT7gEHU5qC1MQMygBegQIARA3");
-  background-repeat: repeat;
-  background-size: contain;
-
 }
 
 .container {
