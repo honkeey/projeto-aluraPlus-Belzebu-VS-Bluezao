@@ -16,7 +16,7 @@ body {
 }
 
 .teste {
-  background-image: url("blob:https://web.whatsapp.com/79128a16-aabd-4654-9832-cc640c584318");
+  background-image: url("file:///home/Aluno/Downloads/Design%20sem%20nome.png");
   background-repeat: repeat;
   background-size: contain;
 
