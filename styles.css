@@ -16,13 +16,14 @@ body {
 }
 
 .teste {
-  background-image: url("file:///home/Aluno/Downloads/Design%20sem%20nome.png");
+  background-image: url("background.png");
   background-repeat: repeat;
   background-size: contain;
 
 }
 
-
+.principal {
+}
 
 .container {
   height: 100vh;
