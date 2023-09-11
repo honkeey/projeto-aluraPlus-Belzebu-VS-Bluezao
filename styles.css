@@ -23,6 +23,10 @@ body {
 }
 
 .principal {
+  background-image: url("file:///home/Aluno/%C3%81rea%20de%20Trabalho/Design%20sem%20nome.png");
+  background-repeat: repeat;
+  background-size: contain;
+
 }
 
 .container {
