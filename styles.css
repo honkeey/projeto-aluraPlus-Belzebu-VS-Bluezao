@@ -49,3 +49,13 @@ strong {
   background-color: transparent;
   border: 2px solid var(--botao);
 }
+
+.container__titulo {
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.container__aviso {
+  font-size: 12px;
+  color: var(--cinza-secundario);
+}
