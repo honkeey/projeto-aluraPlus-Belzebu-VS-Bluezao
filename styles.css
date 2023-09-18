@@ -69,3 +69,19 @@ strong {
 .secundario__imagem {
   width: 80%;
 }
+
+.descricao__titulo {
+  font-weight: bold;
+  font-size: 48px
+  color:var(var(--branco-principal))
+  margin-low: 0.1em
+}
+
+.descricao__texto {
+color: var(--cinza-secundario);
+line-height: 125%;
+}
+
+.container__descricao {
+  padding: 2em;
+}
