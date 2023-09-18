@@ -73,8 +73,8 @@ strong {
 .descricao__titulo {
   font-weight: bold;
   font-size: 48px;
-  color:var(var(--branco-principal))
-  margin-low: 0.1em
+  color:var(var(--branco-principal));
+  margin-bottom: 0.1em;
 }
 
 .descricao__texto {
