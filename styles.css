@@ -73,7 +73,7 @@ strong {
 .descricao__titulo {
   font-weight: bold;
   font-size: 48px;
-  color:var(var(--botao));
+  color:var(var(--branco-principal));
   margin-bottom: 0.1em;
 }
 
