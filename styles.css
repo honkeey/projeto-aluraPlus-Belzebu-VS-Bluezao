@@ -85,3 +85,20 @@ line-height: 125%;
 .container__descricao {
   padding: 2em;
 }
+
+.secundario__botao {
+  display: inline-block;
+  margin-top: 1em;
+}
+
+.descricao__titulo {
+  font-weight: bold;
+  font-size: 42px;
+  color: var(--branco-principal);
+  margin-bottom: 0.1em;
+}
+
+.descricao__texto {
+  color: var(--cinza-secundario);
+  line-height: 125%;
+}
