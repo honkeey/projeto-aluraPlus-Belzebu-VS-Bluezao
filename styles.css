@@ -115,3 +115,7 @@ line-height: 125%;
 .dispositivos {
   text-align: center;
 }
+
+.rodape__lista {
+  display: flex;
+}
