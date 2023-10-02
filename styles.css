@@ -106,3 +106,7 @@ line-height: 125%;
 .titulo2 {
   color:#4626b8
 }
+
+.dispositivos__lista {
+  display: flex;
+}
