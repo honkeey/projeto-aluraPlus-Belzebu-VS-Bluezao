@@ -109,4 +109,9 @@ line-height: 125%;
 
 .dispositivos__lista {
   display: flex;
+  justify-content: space-around;
+}
+
+.dispositivos {
+  text-align: center;
 }
