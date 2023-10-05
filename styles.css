@@ -119,6 +119,7 @@ line-height: 125%;
 .rodape__lista {
   display: flex;
   justify-content: space-between;
+  color: #FFFFFF;
 }
 
 footer {
@@ -127,4 +128,9 @@ footer {
 
 .paragrafo {
   text-align: center;
+}
+
+.paragrafo2 {
+  text-align: center;
+  color: gray;
 }
